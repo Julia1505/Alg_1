@@ -1,0 +1,3 @@
+/home/julia/technopark/Alg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/julia/technopark/Alg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/julia/technopark/Alg/cmake-build-debug/CMakeFiles/Alg.dir
